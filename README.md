@@ -2,8 +2,8 @@
 
 # install
 ```bash
-git pull https://github.com/ichengchao/rime-ice
 cd ~/Library
+git pull https://github.com/ichengchao/rime-ice.git
 mv Rime Rime.old
 ln -s Rime-ice Rime
 
