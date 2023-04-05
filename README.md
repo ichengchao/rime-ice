@@ -3,7 +3,7 @@
 # install
 ```bash
 cd ~/Library
-git pull git@github.com:ichengchao/rime-ice.git
+git clone git@github.com:ichengchao/rime-ice.git
 mv Rime Rime.old
 ln -s Rime-ice Rime
 
