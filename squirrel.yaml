@@ -26,6 +26,10 @@ show_notifications_when: appropriate
 
 # ascii_mode、inline、no_inline、vim_mode 等等设定，可参考 /Library/Input Methods/Squirrel.app/Contents/SharedSupport/squirrel.yaml
 app_options:
+  com.googlecode.iterm2:
+      ascii_mode: true
+  org.eclipse.platform.ide:
+      ascii_mode: true
   # com.apple.Spotlight:
   #   ascii_mode: true    # 开启默认英文
   # com.microsoft.VSCode:
