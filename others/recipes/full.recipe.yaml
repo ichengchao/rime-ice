@@ -16,7 +16,6 @@ install_files: >-
   en_dicts/en.dict.yaml
   en_dicts/en_ext.dict.yaml
   en_dicts/cn_en.dict.yaml
-  opencc/emoji-map.txt
   opencc/emoji.json
   opencc/emoji.txt
   opencc/others.txt
@@ -25,6 +24,7 @@ install_files: >-
   rime_ice.dict.yaml
   rime_ice.schema.yaml
   symbols_custom.yaml
+  symbols_custom_double.yaml
   double_pinyin.schema.yaml
   double_pinyin_flypy.schema.yaml
   liangfen.dict.yaml
