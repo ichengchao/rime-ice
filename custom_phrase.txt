@@ -38,3 +38,7 @@
 程靖雯	cjw
 kidccc@gmail.com	k
 ichengchao@gmail.com	i
+
+terraform	t
+可以	key
+
