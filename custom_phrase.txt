@@ -37,7 +37,11 @@
 程靖茹	cjr
 程靖雯	cjw
 kidccc@gmail.com	k
+kidccc@gmail.com	ki
+kidccc@gmail.com	kid
 ichengchao@gmail.com	i
-
+ichengchao@gmail.com	ic
 terraform	t
+terraform	te
+terraform	ter
 可以	key
